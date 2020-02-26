@@ -1,0 +1,6 @@
+Source/.vs/
+Source/1.1/bin/
+Source/1.1/obj/
+
+*.dll
+*.pdb

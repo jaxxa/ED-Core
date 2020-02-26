@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>ED-Core</name>
+	<packageId>Jaxxa.EnhancedDevelopment.Core</packageId>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<author>Jaxxa</author>
+	<url>https://github.com/jaxxa/JaxxaRimworldReleaseCollection/blob/master/README.md</url>
+	<description>Version: 2.0.0.0
+Links to all my mods including non steam versions available at: https://github.com/jaxxa/JaxxaRimworldReleaseCollection/blob/master/README.md
+
+Contains common code that is used between a number of my mod projects. This mod itself will not do anything without another of the mods enabled.
+
+	</description>
+</ModMetaData>
