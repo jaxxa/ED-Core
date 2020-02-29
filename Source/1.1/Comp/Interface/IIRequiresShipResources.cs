@@ -13,5 +13,7 @@ namespace Jaxxa.EnhancedDevelopment.Core.Comp.Interface
                 
         string StatusString { get; }
 
+        bool UseResources();
+
     }
 }
