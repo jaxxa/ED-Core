@@ -10,7 +10,7 @@
 	<description>Version: 2.0.0.0
 Links to all my mods including non steam versions available at: https://github.com/jaxxa/JaxxaRimworldReleaseCollection/blob/master/README.md
 
-Contains common code that is used between a number of my mod projects. This mod itself will not do anything without another of the mods enabled.
+This Project contains common code that is used between several of my mod projects. This mod itself will not do anything without any of the other enabled.
 
 	</description>
 </ModMetaData>
