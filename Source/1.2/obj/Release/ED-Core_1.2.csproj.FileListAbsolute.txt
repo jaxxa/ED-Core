@@ -1,0 +1,6 @@
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\ED-Core\1.1\Assemblies\0ED-Core.dll
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\ED-Core\1.1\Assemblies\0ED-Core.pdb
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\Source\1.2\obj\Release\0ED-Core.dll
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\Source\1.2\obj\Release\0ED-Core.pdb
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\ED-Core\1.2\Assemblies\0ED-Core.dll
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\ED-Core\1.2\Assemblies\0ED-Core.pdb
