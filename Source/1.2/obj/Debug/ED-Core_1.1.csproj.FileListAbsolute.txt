@@ -1,0 +1,5 @@
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\ED-Core\1.1\Assemblies\0ED-Core.dll
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\ED-Core\1.1\Assemblies\0ED-Core.pdb
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\Source\1.1\obj\Debug\0ED-Core.dll
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\Source\1.1\obj\Debug\0ED-Core.pdb
+C:\~Git\Jaxxa-Rimworld\~SubModules\ED-Core\Source\1.1\obj\Debug\ED-Core_1.1.csprojAssemblyReference.cache
